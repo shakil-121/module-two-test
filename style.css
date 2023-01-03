@@ -1,0 +1,29 @@
+.box{ 
+    width: 25%;
+    padding: 45px 0px 126px 0px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    border: none;
+    box-shadow: 0 0 20px 9px #00adff; 
+    margin-top: 50px;
+}  
+.login{ 
+    text-decoration: underline dotted  #00adff;
+}
+input{ 
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+    background-color: #bcf0ff;
+} 
+.button{ 
+    padding: 10px 30px 10px 30px;
+    border-radius: 20px;
+    box-shadow: 1px 0px 20px 1px #00adff;
+    border: none; 
+    background-color: #fff;
+} 
+/* .pass{ 
+    margin-left: 10px;
+} */
